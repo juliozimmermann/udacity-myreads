@@ -1,0 +1,16 @@
+{
+    "shelves": [
+        {
+            "shelf": "wantToRead",
+            "description": "Want to read"
+        },
+        {
+            "shelf": "currentlyReading",
+            "description": "Currently reading"
+        },
+        {
+            "shelf": "read",
+            "description": "Read"
+        }
+    ]
+}
