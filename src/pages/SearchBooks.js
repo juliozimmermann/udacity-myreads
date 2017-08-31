@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
-import { Book } from './BookShelves';
-import { LoadingIndicator } from '../controls/LoadingIndicator'
+
+import { LoadingIndicator } from '../controls/LoadingIndicator';
+import { Book } from '../components/Book';
+
 
 export class SearchBooks extends Component {
     static propTypes = {
